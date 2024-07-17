@@ -1,1 +1,10 @@
-
+{
+    "workday": {
+        "rest_api_endpoint": "",
+        "token_endpoint": "",
+        "client_id": "",
+        "client_secret": "your_client_secret",  
+        "refresh_token": "your_refresh_token"   
+    },
+    "log_file_path": "/path/to/your/workday_data.log"
+}
